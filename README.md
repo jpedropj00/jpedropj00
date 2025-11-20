@@ -1,98 +1,97 @@
-# 👩🏻‍💻 João Pedro
+# <img src="https://readme-typing-svg.herokuapp.com/?color=8A2BE2&size=35&center=true&vCenter=true&width=1000&lines=👋+Olá,+sou+João+Pedro!;Desenvolvedor+Full-Stack;Estudante+de+Desenvolvimento+de+Sistemas;Sempre+aprendendo+algo+novo!💡" />
 
-**`Desenvolvedor FullStack`**
+---
 
---
-<p>
-    Me chamo João Pedro, tenho 15 anos, sou estudante do curso técnico <strong>Desenvolvimento de Sistemas</strong>, iniciei na área durante esse ano e desde então venho buscado crescimento, com estudos dentro da área de back-end e front-end.
-</p>
---
+<div align="center">
+  <img src="https://i.imgur.com/waxVImv.png"/>  
+</div>
 
-### 🤖 Linguagens e Tecnologias
+---
 
-<img 
-    align="left" 
-    alt="HTML"
-    title="HTML" 
-    width="30px" 
-    style="padding-right: 10px;" 
-    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/html5/html5-original.svg" 
-/>
-<img 
-    align="left" 
-    alt="CSS" 
-    title="CSS"
-    width="30px" 
-    style="padding-right: 10px;" 
-    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/css3/css3-original.svg" 
-/>
-<img 
-    align="left" 
-    alt="JavaScript" 
-    title="JavaScript"
-    width="30px" 
-    style="padding-right: 10px;" 
-    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/javascript/javascript-original.svg" 
-/>
-<img 
-    align="left" 
-    alt="TypeScript"
-    title="TypeScript" 
-    width="30px" 
-    style="padding-right: 10px;" 
-    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/typescript/typescript-original.svg" 
-/>
-<img 
-    align="left" 
-    alt="React"
-    title="React" 
-    width="30px" 
-    style="padding-right: 10px;" 
-    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/react/react-original.svg" 
-/>
-<img 
-    align="left" 
-    alt="Tailwind" 
-    title="Tailwind"
-    width="30px" 
-    style="padding-right: 10px;" 
-    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/tailwindcss/tailwindcss-original.svg" 
-/>
-<img 
-    align="left" 
-    alt="Git" 
-    title="Git"
-    width="30px" 
-    style="padding-right: 10px;" 
-    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/git/git-original.svg" 
-/>
-<img 
-    align="left" 
-    alt="Python" 
-    title="Python"
-    width="30px" 
-    style="padding-right: 10px;" 
-    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/python/python-original.svg" 
-/>
+## 🌌 Sobre mim
 
-<br/>
-<br/>
+✨ Tenho **15 anos**, estudo **Desenvolvimento de Sistemas** e atualmente foco no universo do **Back-End**.  
+🚀 Crio projetos, APIs, automações e sistemas completos — sempre buscando evoluir.
 
-### 📊 Estatísticas
+💡 *Meu lema:*  
+**"A cada bug, um novo aprendizado."**
 
-<p>
-  <img 
-    align="left" 
-    alt="GitHub Stats" 
-    height="200" 
-    style="padding-right: 10px;" 
-    src="https://github-readme-stats.vercel.app/api?username=jpedropj00&show_icons=true&theme=tokyonight&include_all_commits=true&locale=pt-br" 
-  />
+---
 
-<img 
-      align="left" 
-      alt="GitHub Stats" 
-      height="200" 
-      src="https://github-readme-stats.vercel.app/api/top-langs/?username=jpedropj00&theme=tokyonight&layout=compact&custom_title=Tecnologias&langs_count=9" 
-  />
-</p>
+## ⚙️ Tecnologias e Ferramentas
+
+<div align="center">
+
+### 🛠️ **Stack Principal**
+<img src="https://skillicons.dev/icons?i=python,html,css,js,react,tailwind,git,github,vscode&theme=dark" />
+
+---
+
+### 🧪 **Explorando**
+<img src="https://skillicons.dev/icons?i=nodejs,sqlite,mysql,firebase&theme=dark"/>
+
+</div>
+
+---
+
+<div align="center">
+  <img src="https://i.imgur.com/waxVImv.png"/>  
+</div>
+
+---
+
+## 🚀 Estatísticas do GitHub
+
+<div align="center">
+
+<img height="180em" src="https://github-readme-stats.vercel.app/api?username=jpedropj0077&show_icons=true&theme=tokyonight&hide_border=true&count_private=true"/>
+
+<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=jpedropj0077&layout=compact&theme=tokyonight&hide_border=true"/>
+
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=jpedropj00&theme=tokyonight&hide_border=true" />
+
+</div>
+
+---
+
+## 🎯 Minhas metas
+
+- 📌 Aprofundar mais no Back-End  
+- 🧱 Criar sistemas completos com banco de dados  
+- 🐍 Desenvolver interfaces bonitas e atraentes
+- 💼 Construir meu portfólio profissional  
+
+---
+
+## 🧩 Projetos em Destaque
+
+🔹 **Sistema Bancário Completo**  
+🔹 **Loja Iphone**  
+🔹 **API com Flask**  
+
+---
+
+<div align="center">
+  <img src="https://i.imgur.com/waxVImv.png"/>  
+</div>
+
+---
+
+## 💬 Contato
+
+📧 **Email:** contato.joaopedroprogram@gmail.com 
+🔗 **LinkedIn:** https://www.linkedin.com/in/ojoaopedrosouzar/
+
+
+---
+
+## 🎉 Finalizando…
+
+<div align="center">
+  
+**Obrigado por visitar meu perfil!**  
+⭐ *Considere deixar uma estrela em algum repositório!*  
+
+<img src="https://media.giphy.com/media/iigp4VDyf5dCLRlGnn/giphy.gif" width="200"/>
+
+</div>
