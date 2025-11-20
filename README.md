@@ -80,7 +80,7 @@
 ## 💬 Contato
 
 📧 **Email:** contato.joaopedroprogram@gmail.com 
-🔗 **LinkedIn:** https://www.linkedin.com/in/ojoaopedrosouzar/
+🔗 **LinkedIn:** https://www.linkedin.com/in/ojoaosouzar/
 
 
 ---
