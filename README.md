@@ -11,14 +11,6 @@
 
 ---
 
----
-
-<div align="center">
-  <img src="https://i.imgur.com/waxVImv.png"/>  
-</div>
-
----
-
 ## 🌌 Sobre mim
 
 ✨ Tenho **15 anos**, estudo **Desenvolvimento de Sistemas** e atualmente foco no universo do **Back-End**.  
