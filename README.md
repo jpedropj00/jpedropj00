@@ -1,4 +1,4 @@
-# <img src="https://readme-typing-svg.herokuapp.com/?color=8A2BE2&size=35&center=true&vCenter=true&width=1000&lines=👋+Olá,+sou+João+Pedro!;Desenvolvedor+Full-Stack;Estudante+de+Desenvolvimento+de+Sistemas;Sempre+aprendendo+algo+novo!💡" />
+# <img src="https://readme-typing-svg.herokuapp.com/?color=8A2BE2&size=35&center=true&vCenter=true&width=1000&lines=👋+Olá,+sou+João+Pedro!;Desenvolvedor Back-End;Estudante+de+Desenvolvimento+de+Sistemas;Sempre+aprendendo+algo+novo!💡" />
 
 ---
 
