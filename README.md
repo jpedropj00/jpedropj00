@@ -1,4 +1,15 @@
-# <img src="https://readme-typing-svg.herokuapp.com/?color=8A2BE2&size=35&center=true&vCenter=true&width=1000&lines=👋+Olá,+sou+João+Pedro!;Desenvolvedor Back-End;Estudante+de+Desenvolvimento+de+Sistemas;Sempre+aprendendo+algo+novo!💡" />
+<!-- Banner superior -->
+<p align="center">
+  <img src="
+
+" width="100%" />
+</p>
+
+<h1 align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?font=Orbitron&size=35&color=00FFFF&center=true&vCenter=true&width=1000&lines=👾+JOÃO+PEDRO;BACK-END+DEVELOPER;BUILDING+THE+FUTURE+WITH+CODE;NEVER+STOP+LEVELING+UP+🚀" />
+</h1>
+
+---
 
 ---
 
