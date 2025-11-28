@@ -53,7 +53,13 @@
 
 <img src="https://github-readme-streak-stats.herokuapp.com/?user=jpedropj00&theme=tokyonight&hide_border=true" />
 
-<img src="https://ghchart.rshah.org/00ffff/jpedropj00"/>
+  <img 
+    align="left" 
+    alt="GitHub Stats" 
+    height="200" 
+    style="padding-right: 10px;" 
+    src="https://github-readme-stats.vercel.app/api?username=jpedropj00&show_icons=true&theme=tokyonight&include_all_commits=true&locale=pt-br" 
+  />
 
 </div>
 
