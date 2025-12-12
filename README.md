@@ -11,16 +11,6 @@
 
 ---
 
-## 🌌 Sobre mim
-
-✨ Tenho **15 anos**, estudo **Desenvolvimento de Sistemas** e atualmente foco no universo do **Back-End**.  
-🚀 Crio projetos, APIs, automações e sistemas completos — sempre buscando evoluir.
-
-💡 *Meu lema:*  
-**"A cada bug, um novo aprendizado."**
-
----
-
 ## ⚙️ Tecnologias e Ferramentas
 
 <div align="center">
